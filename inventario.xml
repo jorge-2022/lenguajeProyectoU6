@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="estilo_espinoza.xsl"?>
+
+<inventario>
+
+    <producto codigo="D01" categoria="novela">
+        <nombre>Dune</nombre>
+        <precio>2200.00</precio>
+        <stock>30</stock>
+        <especificaciones>
+            <autor>Frank Herbert</autor>
+            <edicion>primera</edicion>
+            <anyoPublicacion>1965</anyoPublicacion>
+            <genero>ciencia ficcion</genero>
+        </especificaciones>
+    </producto>
+
+    <producto codigo="D02" categoria="novela">
+        <nombre>El mesias de Dune</nombre>
+        <precio>18.00</precio>
+        <stock>20</stock>
+        <especificaciones>
+            <autor>Frank Herbert</autor>
+            <anyoPublicacion>1969</anyoPublicacion>
+            <genero>ciencia ficcion</genero>
+        </especificaciones>
+    </producto>
+
+    <producto codigo="D03" categoria="novela">
+        <nombre>Hijos de Dune</nombre>
+        <precio>20.00</precio>
+        <stock>21</stock>
+        <especificaciones>
+            <autor>Frank Herbert</autor>
+            <anyoPublicacion>1976</anyoPublicacion>
+            <genero>ciencia ficcion</genero>
+        </especificaciones>
+    </producto>
+
+    <producto codigo="D04" categoria="novela">
+        <nombre>Dios Emperador de Dune</nombre>
+        <precio>21.90</precio>
+        <stock>14</stock>
+        <especificaciones>
+            <autor>Frank Herbert</autor>
+            <anyoPublicacion>1981</anyoPublicacion>
+            <genero>ciencia ficcion</genero>
+        </especificaciones>
+    </producto>
+
+    <producto codigo="H01" categoria="drama">
+        <nombre>Hamlet</nombre>
+        <precio>15.99</precio>
+        <stock>40</stock>
+        <especificaciones>
+            <autor>William Shakespeare</autor>
+            <anyoPublicacion>1603</anyoPublicacion>
+            <genero>tragedia</genero>
+        </especificaciones>
+    </producto>
+
+    <producto codigo="S01" categoria="servicio">
+        <nombre>Servicio de Consultoria de Espinoza</nombre>
+        <precio>700.00</precio>
+        <stock>1</stock>
+        <especificaciones>
+            <tipoServicio>Consultoria</tipoServicio>
+            <nivel>Premium</nivel>
+        </especificaciones>
+    </producto>
+
+</inventario>
